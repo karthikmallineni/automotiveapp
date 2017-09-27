@@ -7,7 +7,8 @@
 //
 
 import UIKit
-
+import AWSCore
+import Firebase
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
@@ -16,6 +17,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+      Thread.sleep(forTimeInterval: 3)
+        
+        let credentialProvider = AWSCognitoCredentialsProvider(regionType: .USEast2, identityPoolId: "us-east-2:9b65b022-a5df-42db-a45c-97fe6eec30ad")
+        let configuration = AWSServiceConfiguration(region: .USEast2, credentialsProvider: credentialProvider)
+        AWSServiceManager.default().defaultServiceConfiguration = configuration
+        
+        FirebaseApp.configure()
+        
         return true
     }
 

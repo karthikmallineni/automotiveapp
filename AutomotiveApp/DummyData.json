@@ -1,0 +1,40 @@
+
+{"Data":
+    [{
+     "urlimage": "https://s3.us-east-2.amazonaws.com/dert345/car1.jpeg",
+     "name": "Ferrari",
+     "Mileage":"5"
+     },
+     {
+     "urlimage": "https://s3.us-east-2.amazonaws.com/dert345/car2.jpeg",
+     "name": "Ducati",
+     "Mileage":"6"
+     },
+     {
+     "urlimage": "https://s3.us-east-2.amazonaws.com/dert345/car3.jpeg",
+     "name": "Toyota",
+     "Mileage":"7"
+    }],
+    "product":
+   [{
+    "MileagecityARI": "1.0kmp",
+    "Mileagecity": "2.0kmp",
+    "EngineDisplacement" : "6262cc",
+    "BHP" : "651.73",
+    "FuelType": "Petrol"
+    },
+    {
+    "MileagecityARI": "1.0kmp",
+    "Mileagecity": "2.0kmp",
+    "EngineDisplacement" : "6262cc",
+    "BHP" : "651.73",
+    "FuelType": "Petrol"
+    },
+    {"MileagecityARI": "1.0kmp",
+    "Mileagecity": "2.0kmp",
+    "EngineDisplacement" : "6262cc",
+    "BHP" : "651.73",
+    "FuelType": "Petrol"
+    }]
+}
+
