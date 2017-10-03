@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>532800213273-ghbirviphkuleuuu572alsk8300ge3b8.apps.googleusercontent.com</string>
+	<string>331819659553-8388t5h7phmnsv9fsom8c77sbjukofi1.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.532800213273-ghbirviphkuleuuu572alsk8300ge3b8</string>
+	<string>com.googleusercontent.apps.331819659553-8388t5h7phmnsv9fsom8c77sbjukofi1</string>
 	<key>API_KEY</key>
-	<string>AIzaSyD5k4cnMQplzdmFCwklSUQzYKwYomu_LrE</string>
+	<string>AIzaSyAoadOUGDLaME0WSRaiEdKoxzReFC4QAKc</string>
 	<key>GCM_SENDER_ID</key>
-	<string>532800213273</string>
+	<string>331819659553</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>atmaja.AutomotiveApp</string>
+	<string>asmltd.AutomotiveApp.com</string>
 	<key>PROJECT_ID</key>
-	<string>automotiveapp-8e4e0</string>
+	<string>automobileproject-7ae5c</string>
 	<key>STORAGE_BUCKET</key>
-	<string>automotiveapp-8e4e0.appspot.com</string>
+	<string>automobileproject-7ae5c.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:532800213273:ios:befc3a6e1d66e139</string>
+	<string>1:331819659553:ios:d2e3a4812bc5312b</string>
 	<key>DATABASE_URL</key>
-	<string>https://automotiveapp-8e4e0.firebaseio.com</string>
+	<string>https://automobileproject-7ae5c.firebaseio.com</string>
 </dict>
 </plist>
